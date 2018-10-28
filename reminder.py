@@ -12,9 +12,9 @@ sys.setdefaultencoding('utf-8')
 
 PERIOD = 3
 MAX_EMAIL_CNT = 3
-from_addr = 'simplaurel@163.com'
+from_addr = ''
 pswd = ''
-to_addr = 'bsymlxl@126.com'
+to_addr = ''
 
 #600887 : 伊利股份
 #000651 ：格力电器
